@@ -20,6 +20,8 @@ You should see dist a folder that has been created after the build,
 
 - switch on the toggle switch "mute sonyliv ads" and view sonyliv's content without having to worry about loud ads being played
 
+Feel free to modify/fork/use this repo and build newer features for other platforms
+
 
 
 
